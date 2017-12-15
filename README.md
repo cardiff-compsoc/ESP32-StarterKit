@@ -47,7 +47,24 @@ Click `install` and let it do it's thing:
 
 ## <a id="section2">Downloading the Git Repo</a>
 
+Make sure you have [git](https://git-scm.com) installed
+
+Open a new terminal (mac/linux) or CMD (windows) window in a project folder of your choosing and enter: 
+`git clone https://github.com/cardiff-compsoc/ESP32-StarterKit.git`
+
+This will copy all the files in this repository onto your computer.
+
 ----
 
 
 ## <a id="section3">Uploading to your ESP32</a>
+
+In the repository you just downloaded, right click on `OLED-Demo.ini`, and open with Visual Studio Code
+
+Make sure your ESP32 is connected to your computer and click the **-->** in the blue bottom task-bar
+
+PlatformIO will download the libraries you need automatically, and attempt to upload the program to your ESP32.
+
+It might fail the first time, so give it another go and hopefully it will upload successfully.
+
+To upload again, make sure you close the terminal window using the rubbish-bin icon.
