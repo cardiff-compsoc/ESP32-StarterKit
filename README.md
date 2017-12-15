@@ -1,12 +1,12 @@
 # ESP32-StarterKit
-A repository with everything you need to get started with the CompSoc ESP-32 starter kits
+A repository with everything you need to get started with the CompSoc ESP-32 starter kits. Follow this getting-started guide in order 
 
-**Contents**
-1) [Getting Started](#section1)
-2) [Downloading the Git Repo](#Downloading-the-Git-Repo)
-3) [Uploading to your ESP32](#Uploading-to-your-ESP32)
+**Contents:**
+1) [Setting up your environment](#section1)
+2) [Downloading the Git Repo](#section2)
+3) [Uploading to your ESP32](#section3)
 
-## <a id="section1">Getting Started</a>
+## <a id="section1">Setting up your environment</a>
 
 ### Download an IDE
 Download either [Visual Studio Code](https://code.visualstudio.com) (Recommended) or [Atom](https://atom.io)
@@ -45,9 +45,9 @@ Click `install` and let it do it's thing:
 
 ----
 
-## Downloading the Git Repo
+## <a id="section2">Downloading the Git Repo</a>
 
 ----
 
 
-## Uploading to your ESP32
+## <a id="section3">Uploading to your ESP32</a>
