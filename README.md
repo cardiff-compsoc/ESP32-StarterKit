@@ -1,7 +1,12 @@
 # ESP32-StarterKit
 A repository with everything you need to get started with the CompSoc ESP-32 starter kits
 
-## Getting started
+**Contents**
+1) [Getting Started](#section1)
+2) [Downloading the Git Repo](#Downloading-the-Git-Repo)
+3) [Uploading to your ESP32](#Uploading-to-your-ESP32)
+
+## <a id="section1">Getting Started</a>
 
 ### Download an IDE
 Download either [Visual Studio Code](https://code.visualstudio.com) (Recommended) or [Atom](https://atom.io)
@@ -38,3 +43,11 @@ Search for `Espressif`, and click on `Espressif 32`:
 Click `install` and let it do it's thing:
 ![Installing Espressif Platfrom](https://i.imgur.com/SJjU9X3.png)
 
+----
+
+## Downloading the Git Repo
+
+----
+
+
+## Uploading to your ESP32
